@@ -13,7 +13,7 @@ Designed fully in **Altium Designer**.
 - Topology: Offline Buck SMPS
 - Controller IC: AL17150-10BS7-13
 
-##  Design Files Included
+## Design Files Included
 - Altium Schematic 
 - PCB Layout 
 - PCB Draftsman
@@ -24,6 +24,6 @@ Designed fully in **Altium Designer**.
 ## Tools Used
 - Altium Designer 25.x
 
-## 👤 Author
+## Author
 **Muthuraj HV**  
 PCB Design Engineer  
